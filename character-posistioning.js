@@ -13,4 +13,3 @@ function indiceLocator(stringToBeCounted) {
   }
   return object;
 }
-console.log(indiceLocator('cool'));
