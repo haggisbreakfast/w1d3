@@ -10,4 +10,4 @@ function countLetters(stringToBeCounted) {
     delete object[' '];
   }
   return object;
-}
+}console.log(countLetters('water bottle'));
